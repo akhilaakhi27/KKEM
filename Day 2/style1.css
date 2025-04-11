@@ -1,0 +1,25 @@
+/* id selector */
+h1#t1{
+    color:red;
+    background-color:blue;
+    
+/* class selector */
+}
+h1#t2{
+    color:blue
+}
+
+p.p1{
+    color:green
+}
+p.p2{
+    color:violet
+}
+/* multi element selector */
+h1,p{
+    text-align: center;
+}
+/* star selector */
+*{
+    background-color: pink;
+}
